@@ -1,8 +1,8 @@
-# _Pig Dice Game_
+# _Pizza Project_
 
-#### _A webpage that let's players play the game "Pig Dice", 11/2/2016_
+#### _Description: A website where a user orders a pizza by selecting the quantity, size, and toppings for the order._
 
-#### By _**Hal Fairless and Bryant Wang**_
+#### By _**Hal Fairless**_
 
 ## Description
 
@@ -10,50 +10,21 @@ _A project made for Epicodus to creating and manipulating objects in JavaScript.
 
 ## Specs
 
-* _The program can produce a random number.
-Input: N/A
-Output: 3.14_
-* _The program can limit the number between 1 and 6.
-Input: N/A
-Output: 3_
-* _The program can create at least two player objects.
-Input: playerName
-Output: playerName_
-* _The program can allow players to generate a number (roll the die).
-Input: player1 presses button for roll
-Output: 3_
-* _The program can track each player's turn.
-Input: player1
-Output: Turn 1_
-* _The program can change turns when the hold score button is clicked.
-Input: player1's turn, hold score is clicked
-Output: player2's turn_
-* _The program can give a different score to each player.
-Input: Program rolls 3
-Output: player1 gets 3 points_
-* _The program allows users to hold their score, which ends their turn.
-Input: player1 presses button for hold
-Output: player1 turn ends with score intact_
-* _The program can detect if a 1 is rolled.
-Input: player1 rolls a 1
-Output: "1 has been rolled."_
-* _The program detects a 1 being rolled and will nullify all rolls during the turn and end it.
-Input: player1 rolls a 1 during first turn
-Output: player1 score stays at 0_
-* _The program detects when a player's score becomes equal to or greater than 100.
-Input: player1 has a score of 98 and rolls a 2
-Output: "player1 has 100 points!"_
-* _The program detects a score of at least 100 and ends the game, declaring whichever player reached 100 the winner.
-Input: player1 has a score of 98 and rolls a 2
-Output: "player1 is the winner!"_
-
+* _The program presents a pizza order form with areas for sizing, base price, topping selection and associated pricing, generating a completed pizza price based on selections_
+* _The program accepts a basice size, up to 3 topping and calculates a total price.
+Input: pizza size, selected topping, quantity
+Output: Price per pizza-info
 ## Setup/Installation Requirements
 
 * _Clone this git repository_
 * _Open index.html in a browser or any file in a text editor._
+* _Possible additions:
+1) Allow for the selection of multiple toppings.
+2) Add food menu and also include sides and drinks.
+3) Add branding to the website.
 
 ### License
 
 *GPL*
 
-Copyright (c) 2016 **_Hal Fairless and Bryant Wang_**
+Copyright (c) 2016 **_Hal Fairless_**

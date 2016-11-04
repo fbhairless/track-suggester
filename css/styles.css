@@ -1,0 +1,23 @@
+.header {
+text-align: center;
+
+}
+
+.qty-block {
+  border: 5px solid red;
+  margin-top: 5px;
+  padding: 3px;
+}
+
+.size-block {
+  border: 5px solid green;
+  margin-top: 5px;
+  padding: 3px;
+
+}
+
+.topping-block {
+  border: 5px solid red;
+  margin-top: 5px;
+  padding: 3px;
+}
