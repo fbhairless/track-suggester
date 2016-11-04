@@ -7,6 +7,9 @@ function Pizza(qty, size, toppings) {
 
 Pizza.prototype.pizzaPrice= function(quantity, size, toppings) {
   var totalPrice = quantity * (size + toppings);
+  console.log("quantity = " + quantity);
+  console.log("size = " + size);
+  console.log("topping = " + toppings);
   return totalPrice;
 }
 
