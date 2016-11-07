@@ -12,7 +12,7 @@ background: lightgray;
   background-color: #FF4500;
 }
 
-.size-block {
+#questions {
   border: 5px solid green;
   margin-top: 5px;
   padding: 3px;
