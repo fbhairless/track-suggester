@@ -8,6 +8,7 @@ background: lightgray;
 .question-block {
   border: 5px solid red;
   margin-top: 5px;
+  margin-left: 20px;
   padding: 3px;
   background-color: #FF4500;
 }
@@ -17,13 +18,5 @@ background: lightgray;
   margin-top: 5px;
   padding: 3px;
   background-color: #90EE90;
-
-}
-
-.topping-block {
-  border: 5px solid red;
-  margin-top: 5px;
-  padding: 3px;
-  background-color: #FF4500;
 
 }
