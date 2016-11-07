@@ -1,9 +1,11 @@
 .header {
 text-align: center;
+border: 10px solid black;
+background: lightgray;
 
 }
 
-.qty-block {
+.question-block {
   border: 5px solid red;
   margin-top: 5px;
   padding: 3px;

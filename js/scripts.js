@@ -69,7 +69,7 @@ $(document).ready(function(){
 
       // console.log(" Suggested Track " + suggestedTrack);
 
-    $(".answerTotal").append("<span>" + suggestedTrack + "</span>");
+    $(".suggestedTrack").append("<span>" + suggestedTrack + "</span>");
 
   });
 });

@@ -1,27 +1,25 @@
 # _Pizza Project_
 
-#### _Description: A website where a user orders a pizza by selecting the quantity, size, and topping for the order._
+#### _Description: A website which asks a few questions to assist in determining which epicodus track._
 
 #### By _**Hal Fairless**_
 
 ## Description
 
-_A project made for Epicodus to creating and manipulating objects in JavaScript._
+_A project made for Epicodus to to present a page with five questions, each of which has five possible answer.  upon successfully answering each question, the page will evaluate the answers and present a suggested epicode track, bsed on the answers._
 
 ## Specs
 
-* _The program presents a pizza order form with areas for sizing, base price, topping selection and associated pricing, generating a completed pizza price based on selections_
-* _The program accepts a quantity, size, and topping and calculates a total price.
-Input: pizza size, selected topping, quantity
-Output: Price per pizza-info
+* _the program presents a html page which proposes five questions.  each question has five possible answers.  upon completing the form, the answers are evaluated to arrive at proposed epicodus defined track, which is then suggested based on the various question answers_
+
 ## Setup/Installation Requirements
 
 * _Clone this git repository_
 * _Open index.html in a browser or any file in a text editor._
 * _Possible additions:
-1) Allow for the selection of multiple toppings.
-2) Add food menu and also include sides and drinks.
-3) Add branding to the website.
+1) generate actual questions
+2) generate actual weighted responses for the questions
+3) determine appropriate algorithm for answer evaluatation and determination of appropriate track.
 
 ### License
 
